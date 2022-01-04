@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/main/java=UTF-8
+encoding//src/main/resources=UTF-8
+encoding//src/main/resources/ValidationMessages.properties=UTF-8
+encoding//src/main/resources/application.properties=UTF-8
+encoding//src/main/resources/templates/systemcontrol/control.ftl=UTF-8
+encoding//src/main/resources/templates/systemcontrol/menuedit.ftl=UTF-8
+encoding//src/main/resources/templates/systemcontrol/menumanage.ftl=UTF-8
+encoding//src/test/java=UTF-8
+encoding/<project>=UTF-8
